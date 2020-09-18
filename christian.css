@@ -13,12 +13,13 @@ p {
 #home-button {
                 margin-right: 6px;
                 margin-left: 50px;
+                float: left;
             }
             
 #javascripts-button {
                 margin-right: 6px;
                 margin-left: 50px;
-                float: right;
+                float: left;
             }
             
 #apps-button {
