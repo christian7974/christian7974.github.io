@@ -13,28 +13,27 @@ p {
 #home-button {
                 margin-right: 6px;
                 margin-left: 50px;
-                float: left;
             }
             
-            #javascripts-button {
+#javascripts-button {
+                margin-right: 6px;
+                margin-left: 50px;
+                float: right;
+            }
+            
+#apps-button {
                 margin-right: 6px;
                 margin-left: 50px;
                 float: left;
             }
             
-            #apps-button {
-                margin-right: 6px;
-                margin-left: 50px;
-                float: left;
-            }
-            
-            #about-button {
+#about-button {
                 margin-right: 6px;
                 margin-left: 50px;
                 float: left;
           
             }
-            #page-text {
+#page-text {
                 clear: both;
             }
 
