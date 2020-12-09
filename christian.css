@@ -38,6 +38,13 @@ p {
                 float: left;
           
             }
+
+#finals-button {
+                margin-right: 6px;
+                margin-left: 50px;
+                float: left;
+          
+            }
 #page-text {
            
                 font-size: 20px;
